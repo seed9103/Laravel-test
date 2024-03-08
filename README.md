@@ -1,4 +1,4 @@
-＃＃開発環境
+##開発環境
 
 Dockerビルド
 
@@ -6,7 +6,7 @@ Dockerビルド
 
 2 docker-compose up -d --build
 
-＃＃Laravel環境構築
+##Laravel環境構築
 
 1 docker-compose exec php bash
 
@@ -18,7 +18,7 @@ Dockerビルド
 
 5 php artisan migrate
 
-使用技術
+##使用技術
 
 ・PHP 8.3.2
 
